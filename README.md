@@ -10,3 +10,8 @@ En este proyecto, se podrían añadir los siguientes aspectos:
 - Valorar más casos alternos de uso que puedan generar excepciones.
 - Crear una clase más escalable para los permisos, para poder ser reutilizada en cualquier pantalla.
 - Crear componentes más reutilizables.
+
+Flujo del programa:
+
+[![Whats-App-Image-2023-03-20-at-1-40-35-PM.jpg](https://i.postimg.cc/zf9Pkwt1/Whats-App-Image-2023-03-20-at-1-40-35-PM.jpg)](https://postimg.cc/Lq3T9PFy)
+
