@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Examen</string>
+
+    <string name="profile_title">Perfil</string>
+    <string name="movies_title">Películas</string>
+    <string name="location_title">Ubicación</string>
+    <string name="gallery_title">Galería</string>
+
+    <string name="name">Rodrigo Pérez Ortiz</string>
+    <string name="quantity">Películas vistas: 14</string>
+    <string name="level">Nivel: Aficionado</string>
+    <string name="post">PUBLICACIONES</string>
+
+    <string name="title_dialog_permissions">Permisos necesarios</string>
+    <string name="message_dialog_permissions">Esta aplicación necesita permisos de ubicación, favor de aceptarlo para esta funcionalidad</string>
+    <string name="button_permissions">Aceptar</string>
+    <string name="location_denied">La ubicación no se obtuvo con éxito</string>
+    <string name="location_accepted">Ubicación obtenida con éxito</string>
+    <string name="message_dialog_permissions_gallery">Esta aplicación necesita permisos para acceder a su galería, favor de aceptarlo para esta funcionalidad</string>
+    <string name="gallery_denied">Es necesario aceptar los permisos, desde los ajustes del sistema</string>
+    <string name="message_dialog_permissions_camera">Esta aplicación necesita permisos para acceder a su camára, favor de aceptarlo para esta funcionalidad</string>
+    <string name="camera_denied">Es necesario aceptar los permisos, desde los ajustes del sistema</string>
+
+
+    <string name="title_notifications">Ubicación obtenida con éxito</string>
+    <string name="message_notifications">Fecha: %s </string>
+
+
+    <string name="upload_images">Subir fotos</string>
+    <string name="camera">Camara</string>
+    <string name="gallery">Galería</string>
+    <string name="message_empty_list">No hay imagenes por subir</string>
+    <string name="message_upload_ready">Se subieron todas las imagenes</string>
+
+
+    <string name="dummy_Text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+</resources>
